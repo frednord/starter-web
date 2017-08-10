@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Fredrik Nordström	fredrik.nordstrom@gmail.com	@fnordstrom
 
 # THANKS
 
