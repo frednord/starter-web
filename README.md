@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
 
-Fredrik Nordström 2017
+Fredrik Nordström 2017. All rights reserved.
